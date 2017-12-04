@@ -13,7 +13,24 @@
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.
+            builder.HasKey(e => e.Id);
+
+            builder.Property(e => e.Username)
+                .HasMaxLength(25)
+                .IsRequired(true);
+
+            builder.HasIndex(e => e.Username)
+                .IsUnique();
+
+            builder.Property(e => e.FirstName)
+                .HasMaxLength(25);
+
+            builder.Property(e => e.LastName)
+                .HasMaxLength(25);
+
+            builder.Property(e => e.Password)
+                .HasMaxLength(30)
+                .IsRequired(true);
         }
     }
 }

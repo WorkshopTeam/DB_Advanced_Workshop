@@ -1,0 +1,9 @@
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\bin\Debug\netcoreapp2.0\TeamBuilderSystem.Models.deps.json
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\bin\Debug\netcoreapp2.0\TeamBuilderSystem.Models.dll
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\bin\Debug\netcoreapp2.0\TeamBuilderSystem.Models.pdb
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.csprojResolveAssemblyReference.cache
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.csproj.CoreCompileInputs.cache
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.AssemblyInfoInputs.cache
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.AssemblyInfo.cs
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.dll
+E:\GitHub\DB_Advanced_Workshop\TeamBuilderSystem\TeamBuilderSystem.Models\obj\Debug\netcoreapp2.0\TeamBuilderSystem.Models.pdb
